@@ -1,4 +1,4 @@
-# LSTM_implementation_on_HUMAN_ACTIONS
+# lstm_implementation_on_human_actions
 This Repo consists of the following files :
 - .git
 - code.ipynb
@@ -18,4 +18,4 @@ This Repo consists of the following files :
 <br>
 
 
-- can be used for any file
+- i am a bot
